@@ -1,5 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
+
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: https://www.linkedin.com/in/justin-martinelli-nyc/
+
+
+
+The below stats are ***only*** for the public respositories I have worked on. These do not include stats from private respositories. 
+
+![Justin's public github stats](https://github-readme-stats.vercel.app/api?username=justinm-nyc&count_private=true&theme=gotham)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justinm-nyc&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **justinm-nyc/justinm-nyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
